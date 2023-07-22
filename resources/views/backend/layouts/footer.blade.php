@@ -9,6 +9,11 @@
 <script src="{{ asset('/assets/js/jquery.validate.min.js') }}"></script>
 <script src="{{ asset('/assets/js/jquery.plainoverlay.min.js') }}"></script>
 
+{{-- new js --}}
+<script src="{{ asset('/assets/js/custom_js/demo.js') }}"></script>
+<script src="{{ asset('/assets/js/custom_js/template.js') }}"></script>
+<script src="{{ asset('/assets/js/custom_js/vendors.min.js') }}"></script>
+
 <!-- Sweet Alert library -->
 <link rel="stylesheet" href="{{ asset('/assets/plugins/sweet-alert/sweetalert.css') }}">
 <script src="{{ asset('/assets/plugins/sweet-alert/sweetalert.min.js') }}"></script>
