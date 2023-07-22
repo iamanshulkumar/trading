@@ -1,1 +1,1 @@
-This is Trader analysis portal.
+This is Trader analysis portal. 
