@@ -28,7 +28,7 @@
                                             <div class="page-title-icon">
                                                 <i class="pe-7s-users icon-gradient bg-mean-fruit"> </i>
                                             </div>
-                                            <div>Nifty- Option Chain</div>
+                                            {{-- <div>Nifty- Option Chain</div> --}}
                                         
                                         </div>
                                     </div>
@@ -38,7 +38,7 @@
                                         <div class="main-card mb-3 card">
                                             <div class="card-body">
                                                 <div class="table-responsive">
-                                                    <label for="expiry_date"><b>Select Expiry:</b></label>
+                                                    <label class="text-info" for="expiry_date"><b>Select Expiry:</b></label>
                                                     <select style="width: 234px; height: 37px; color: #a37213;" id="expiry_date">
                                                         <option value="" selected>Options</option>
                             
@@ -61,7 +61,7 @@
                             
                                     @if (isset($data) && !empty($data))
                             
-                                    <table class="table table-striped table-bordered no-margin">
+                                    <table id="example1" class="table table-striped table-bordered no-margin">
                                         <thead>
                                             <tr>
                                                 <th style="color:green ; text-align: center"colspan='8'>Calls</th>

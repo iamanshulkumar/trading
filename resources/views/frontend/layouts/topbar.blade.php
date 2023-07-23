@@ -9,8 +9,8 @@
         <a href="index.html" class="logo">
             <!-- logo-->
             <div class="logo-lg">
-                <span class="light-logo"><img src="../images/logo-dark-text.png" alt="logo" /></span>
-                <span class="dark-logo"><img src="../images/logo-light-text.png" alt="logo" /></span>
+                <span class="light-logo"><img src="../images/logo-dark-text.png" alt="Scalping Price" />Scalping Price</span>
+                <span class="dark-logo"><img src="../images/logo-light-text.png" alt="Scalping Price" />Scalping Price</span>
             </div>
         </a>
     </div>
